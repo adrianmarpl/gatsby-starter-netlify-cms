@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee w1111ith a conscience
+title: Great coffee w111aaa1ith a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
